@@ -336,6 +336,7 @@ class ReactAgent:
         if match:
             return match.group(1), match.group(2)
         return None, None
+
 def initToolExecutor() -> ToolExecutor:
     toolExecutor = ToolExecutor()
     search_description = "一个网页搜索引擎。当你需要回答关于时事、事实以及在你的知识库中找不到的信息时，应使用此工具。"
