@@ -1,0 +1,32 @@
+.python-version
+  s_5e14beafc9fa53::t_1447d114bf7267 1
+README.md
+  s_5e14beafc9fa53::t_0d88ad9a7d175d 3-53
+pyproject.toml
+  s_5e14beafc9fa53::t_6433e8457565c0 1-18
+uv.lock
+  s_5e14beafc9fa53::t_175164ba66c71d 1-777
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b9fa96729c3297b46669f238f160e1ee4bf8cd0f",
+  "prompts": {},
+  "humans": {
+    "h_bdc4f903d1667f": {
+      "author": "hezhuhui <hezhuhui@bytedance.com>"
+    }
+  },
+  "sessions": {
+    "s_5e14beafc9fa53": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "95f29c69-07f1-4e38-a207-097aa1fcf459",
+        "model": "unknown"
+      },
+      "human_author": "hezhuhui <hezhuhui@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
